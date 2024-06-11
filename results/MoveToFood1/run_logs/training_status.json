@@ -1,0 +1,29 @@
+{
+    "Ant_Agent": {
+        "checkpoints": [
+            {
+                "steps": 5918,
+                "file_path": "results\\MoveToFood1\\Ant_Agent\\Ant_Agent-5918.onnx",
+                "reward": null,
+                "creation_time": 1718111133.5234456,
+                "auxillary_file_paths": [
+                    "results\\MoveToFood1\\Ant_Agent\\Ant_Agent-5918.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5918,
+            "file_path": "results\\MoveToFood1\\Ant_Agent.onnx",
+            "reward": null,
+            "creation_time": 1718111133.5234456,
+            "auxillary_file_paths": [
+                "results\\MoveToFood1\\Ant_Agent\\Ant_Agent-5918.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
